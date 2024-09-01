@@ -8,3 +8,7 @@
     <img height="162px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=coalooball&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=chartreuse-dark" />
 </div>
+
+<p align="center">
+    <a href="https://coalooball.github.io/">Check out my personal website</a>
+</p>
